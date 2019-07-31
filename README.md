@@ -1,1 +1,1 @@
-# Basic Machine Learning Methods Applied on MNIST Handwriting Dataset
+# Basic Machine Learning Methods Applied on MNIST Handwritten Digit Dataset
